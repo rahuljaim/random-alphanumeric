@@ -1,6 +1,6 @@
 {
   "name": "random_alphanumeric",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "\"randomrange(a, b, stringa, where) is a JavaScript function that generates a random number within a specified range (a, b) and combines it with a custom string or random alphabets. Easily create unique identifiers or tokens with options to place the string at the start or end. Versatile and efficient for various use cases.\"",
   "main": "index.js",
   "scripts": {
